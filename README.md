@@ -1,4 +1,4 @@
-# Projeto para colocar em prática conceitos sobre Flet
+# Projeto de APP Mobile para colocar em prática conceitos sobre Flet
 
 - Projeto simples que tem como objetivo cadastrar produtos e listar eles logo abaixo, utilizando Flet e Sqlalchemy.
 
